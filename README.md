@@ -1,9 +1,9 @@
-#Tinyhttpd Practice
-Tinyhttpd ÊÇ J. David Blackstone ÓÚ 1999 ÄêĞ´µÄÒ»¸öÔ¼ 500 ĞĞµÄ³¬ÇáÁ¿ĞÍ Http Server,¿ÉÒÔ°ïÖúÎÒÃÇÕæÕıÀí½â·şÎñÆ÷³ÌĞòµÄ±¾ÖÊ,·Ç³£ÊÊºÏ×÷ÎªÑ§Ï°ÍøÂç±à³ÌµÄÈëÃÅ¼¶ÏîÄ¿¡£
+# Tinyhttpd Practice
+Tinyhttpd æ˜¯ J. David Blackstone äº 1999 å¹´å†™çš„ä¸€ä¸ªçº¦ 500 è¡Œçš„è¶…è½»é‡å‹ Http Server,å¯ä»¥å¸®åŠ©æˆ‘ä»¬çœŸæ­£ç†è§£æœåŠ¡å™¨ç¨‹åºçš„æœ¬è´¨,éå¸¸é€‚åˆä½œä¸ºå­¦ä¹ ç½‘ç»œç¼–ç¨‹çš„å…¥é—¨çº§é¡¹ç›®ã€‚
 
-¹ÙÍø£ºhttps://sourceforge.net/projects/tinyhttpd/
+å®˜ç½‘ï¼šhttps://sourceforge.net/projects/tinyhttpd/
 
-ÒÔÏÂÄÚÈİÀ´×ÔÔ­×÷Õß£º
+ä»¥ä¸‹å†…å®¹æ¥è‡ªåŸä½œè€…ï¼š
 
 This software is copyright 1999 by J. David Blackstone. Permission is granted to redistribute and modify this software under the terms of the GNU General Public License, available at http://www.gnu.org/ .
 
@@ -23,7 +23,7 @@ Happy hacking!
     
 J. David Blackstone
 
-##Acknowledgement & Reference
+## Acknowledgement & Reference
 * [1] https://github.com/EZLippi/Tinyhttpd
 
 * [2] https://github.com/wanttobeno/Tinyhttpd
