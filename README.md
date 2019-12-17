@@ -1,4 +1,4 @@
-# Tinyhttpd Practice
+﻿# Tinyhttpd Practice
 Tinyhttpd 是 J. David Blackstone 于 1999 年写的一个约 500 行的超轻量型 Http Server,可以帮助我们真正理解服务器程序的本质,非常适合作为学习网络编程的入门级项目。
 
 官网：https://sourceforge.net/projects/tinyhttpd/
@@ -22,6 +22,16 @@ One last thing: if you look at my webserver or (are you out of mind?!?) use it, 
 Happy hacking!
     
 J. David Blackstone
+
+
+## 运行效果
+首先使用make命令对httpd.c进行编译，开启服务器；然后打开浏览器，输入IP地址和服务器端口号，回车一下，就可以看到服务器传回的html页面了。如果浏览器显示空白，需要修改一下index.html文件的权限。
+
+![httpd](https://github.com/Zhang3zhe/Tinyhttpd-Practice/blob/master/image/httpd.png)
+
+接下来可以使用自带的客户端程序进行实验，先开启服务器程序，然后在另一终端里面编译client.c，运行客户端程序，输入服务器的端口号进行连接。客户端向服务器发送字母，然后服务器再将字母传回。
+
+![client](https://github.com/Zhang3zhe/Tinyhttpd-Practice/blob/master/image/client.png)
 
 ## Acknowledgement & Reference
 * [1] https://github.com/EZLippi/Tinyhttpd
